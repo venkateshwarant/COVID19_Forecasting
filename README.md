@@ -10,11 +10,11 @@ In this case study, we are going to do a detailed analysis on the following intr
 
 1. With this huge data in our hand we should be able to rank the countries based on -
 
-  a. Current death count
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Current death count
 
-  b. Current confirmed case count
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Current confirmed case count
 
-  c. Current active case count
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Current active case count
 
   d. Current recovered case count
 
