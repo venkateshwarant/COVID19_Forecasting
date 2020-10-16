@@ -60,3 +60,16 @@ with the whole data and predict the confirmed cases for a particular location (u
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Workplaces percent change from baseline
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Residential percent change from baseline
+
+
+## Bibliography
+
+[1] J. H. University, "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University," [Online]. Available: https://github.com/CSSEGISandData/CO VID-19.
+
+[2] Google, "COVID-19 Community Mobility Reports," [Online]. Available: https://www.google.com/covid19/mobilit y/ .
+
+[3] U. o. Luxembourg, "High Performance Computing in Luxembourg," [Online]. Available: https://hpc.uni.lu/.
+
+[4] Sameersingh. [Online]. Available: https://github.com/sameersingh/scalaplot .
+
+[5] J. H. University, "John Hopkins university website for COVID-19 trends," [Online]. Available: https://www.arcgis.com/apps/opsdashboa rd/index.html#/bda7594740fd402994234 67b48e9ecf6.
