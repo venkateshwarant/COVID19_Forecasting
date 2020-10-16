@@ -3,6 +3,8 @@
 ## ABSTRACT
 As the COVID-19 pandemic tends to grow in number worldwide, we record huge data related to COVID-19. With the huge computing power which we have today, we can try to analyze the data collected either to find some useful facts or create some machine learning models with which we can predict the growth of pandemic in different parts of the world. In this use-case study, I have taken the John Hopkins datasets [1] to perform data analysis and to create machine learning model (mainly based on Linear regression and Random forest regression) to predict and forecast the growth of the pandemic in a particular locality or a country. Here we mainly predict and forecast the confirmed case count and the recovered case count.
 
+NOTE: View the Report.pdf for the full report
+
 ## PROBLEM STATEMENT
 In this case study, we are going to do a detailed analysis on the following intriguing concepts- 1. With this huge data in our hand we should
 be able to rank the countries based on -
