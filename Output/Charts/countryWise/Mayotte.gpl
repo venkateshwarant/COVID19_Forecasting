@@ -1,0 +1,38 @@
+# Chart settings
+set title "COVID-19 trend chart of Mayotte !"
+set key right center
+set terminal png enhanced 
+
+set terminal png enhanced 
+set output "Mayotte.png"
+# XYChart settings
+set nologscale
+set xr [*:*] noreverse
+set yr [*:*] noreverse
+set xlabel ""
+set ylabel ""
+# XYData Plotting
+plot \
+'-'  using 1:2 title "Confirmed" with linespoints , \
+'-'  using 1:2 title "Recovered" with linespoints , \
+'-'  using 1:2 title "Deaths" with linespoints 
+# Confirmed
+1.0	6.0
+2.0	6.0
+3.0	7.0
+end
+# Recovered
+1.0	0.0
+2.0	0.0
+3.0	0.0
+end
+# Deaths
+1.0	0.0
+2.0	0.0
+3.0	0.0
+end
+
+unset output
+# Wrapup
+set terminal dumb
+refresh

@@ -1,0 +1,29 @@
+# Chart settings
+set title "COVID-19 trend chart of Saint Martin !"
+set key right center
+set terminal png enhanced 
+
+set terminal png enhanced 
+set output "Saint Martin.png"
+# XYChart settings
+set nologscale
+set xr [*:*] noreverse
+set yr [*:*] noreverse
+set xlabel ""
+set ylabel ""
+# XYData Plotting
+plot \
+'-'  using 1:2 title "Confirmed" with linespoints , \
+'-'  using 1:2 title "Recovered" with linespoints , \
+'-'  using 1:2 title "Deaths" with linespoints 
+# Confirmed
+end
+# Recovered
+end
+# Deaths
+end
+
+unset output
+# Wrapup
+set terminal dumb
+refresh
